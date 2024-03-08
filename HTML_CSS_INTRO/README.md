@@ -5,7 +5,7 @@ Welcome to the HTML and CSS directory! This directory contains various HTML and 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [File Structure](#file structure)
+- [File Structure](#file_structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
