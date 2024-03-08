@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-color: whitesmoke;
+    
+}
+.wrapper{
+    width: 350px;
+    height: 450px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 20px black;
+    overflow: hidden;
+}
+
+.wrapper img{
+    height: 500px;
+    width: 375px; 
+}
+.bio-info{
+    height:50px;
+    width: 350px;
+    padding: 5px;
+    background-color: rgb(27, 27, 27, 0.5);
+    box-sizing: border-box;
+    position: absolute;
+    color: white;
+    text-transform: uppercase;
+    bottom: 160px;
+    transition: 0.5s;
+}
+h1{
+    font-size: 30px;
+    margin: 10px;
+}
+p{
+    font-size: 18px;
+    line-height: 1.5rem;
+    margin:20px;
+    visibility: hidden;
+    opacity: 0;
+}
+span{
+    font-weight:bold;
+}
+.wrapper:hover{
+    cursor: pointer;
+}
+.wrapper:hover .bio-info{
+    height: 220px;
+    bottom: 160px;
+    background-color: black;;
+}
+.wrapper:hover p{
+    opacity: 1;
+    visibility: visible;
+}
+.wrapper:hover img{
+    transform: scale(1.1) rotate(-3deg);
+}
