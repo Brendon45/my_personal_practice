@@ -27,16 +27,34 @@ This repository includes:
 
    ```bash
    git clone https://github.com/yourusername/my_personal_practice.git
+
 Navigate to the directory:
 
-bash
-Copy code
+__bash__
 cd my_personal_practice
-Explore the directories and files:
+
+### Explore the directories and files:
 
 Browse through the directories to find projects and exercises. Each directory may contain additional instructions or documentation.
 
-Contributing
+__Contributing__
+
 Feel free to fork the repository and submit pull requests with improvements or additional practice materials. Contributions are welcome!
 
+__Contact__
 
+For any questions or comments, please reach out to your-email@example.com.
+
+Replace placeholders like `yourusername` and `your-email@example.com` with your actual GitHub username
+
+## STAY TUNED!
+
+- More projects are coming soon!!
+
+### Author✍️:
+
+Brendon Jeje | [LinkTree](https://linktr.ee/brendonjeje), [Linkedin](https://www.linkedin.com/in/brendonjeje/) && [Twitter](https://twitter.com/brendon4545).
+
+__Feel free to customize it further according to your specific needs and preferences.__
+
+Happy coding! 😄
