@@ -1,6 +1,6 @@
 # My Personal Practice
 
-Welcome to my personal practice repository! This repository contains various projects and exercises that I am working on to enhance my skills in backend development, database management, and system operations.
+Welcome to my ``personal practice repository!`` This repository contains various projects and exercises that I am working on to enhance my skills in ``backend development``, ``database management``, and ``system devops operations``.
 
 ## Overview
 
@@ -43,7 +43,7 @@ Feel free to fork the repository and submit pull requests with improvements or a
 
 __Contact__
 
-For any questions or comments, please reach out to your-email@example.com.
+For any questions or comments, please reach out to jejebrendon722@gmail.com.
 
 Replace placeholders like `yourusername` and `your-email@example.com` with your actual GitHub username
 
