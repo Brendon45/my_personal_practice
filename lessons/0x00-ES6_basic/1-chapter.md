@@ -1,0 +1,1 @@
+ECMAScript 6, also known as ES6 or ECMAScript 2015, is a version of JavaScript, the language used to create interactive effects within web browsers. Think of it like getting an upgraded version of your favorite video game with new features and improvements. ES6 introduced many enhancements to JavaScript, making it more powerful, expressive, and easier to work with for developers.
